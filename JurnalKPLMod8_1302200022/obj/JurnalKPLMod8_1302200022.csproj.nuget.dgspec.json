@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\KPL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022.csproj": {}
+    "C:\\Users\\HP\\Documents\\KPL\\KPL_MOD8_1302200022_RFL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\KPL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022.csproj": {
+    "C:\\Users\\HP\\Documents\\KPL\\KPL_MOD8_1302200022_RFL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\KPL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\KPL\\KPL_MOD8_1302200022_RFL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022.csproj",
         "projectName": "JurnalKPLMod8_1302200022",
-        "projectPath": "C:\\Users\\HP\\Documents\\KPL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\KPL\\KPL_MOD8_1302200022_RFL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\KPL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\KPL\\KPL_MOD8_1302200022_RFL\\JurnalKPLMod8_1302200022\\JurnalKPLMod8_1302200022\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
